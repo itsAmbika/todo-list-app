@@ -138,10 +138,6 @@ using array operations.
 
 ---
 
-# 🧠 Clarity of Thought
-
-The project was designed with clarity and readability in mind.
-
 ## Design Principles Followed
 
 - Clean separation of concerns
@@ -168,70 +164,29 @@ This makes the code:
 
 ---
 
-# ⚡ Practical Implementation
-
-The application is fully functional and interactive.
-
-## Working Functionalities
-
-✔ Add Task  
-✔ Complete Task  
-✔ Undo Completion  
-✔ Delete Task  
-✔ Dynamic Task Counter  
-✔ Keyboard Support  
-✔ Responsive Layout  
-
----
-
-# 🎨 Creativity & Design Choices
-
-Several design improvements were added beyond basic functionality.
-
-## UI Enhancements
-
-### Gradient Background
-A smooth blue-purple gradient was used for modern aesthetics.
-
-### Card-Based Layout
-Tasks are displayed in clean card containers for readability.
-
-### Color-Coded Buttons
-
-| Button | Color |
-|---|---|
-| Add | Blue |
-| Done | Green |
-| Delete | Red |
-
-### Visual Completion Indicator
-Completed tasks:
-- become green
-- receive strike-through styling
-
-### Interactive Experience
-Hover effects and transitions improve usability.
-
----
-
 # 📸 Application Screenshots
 
 ## Empty State
 
-- Clean initial interface
-- Input section ready for tasks
+![Empty State](./assets/Screenshot%202026-05-16%20114907.png)
 
-## Adding Tasks
+---
 
-- Tasks appear dynamically below the input section
+## Adding a Task
 
-## Marking Tasks Complete
+![Adding Task](./assets/Screenshot%202026-05-16%20114932.png)
 
-- Completed tasks turn green with strike-through text
+---
 
-## Multiple Task Handling
+## Completed Task
 
-- Multiple tasks handled dynamically with live statistics
+![Completed Task](./assets/Screenshot%202026-05-16%20114953.png)
+
+---
+
+## Delete Tasks
+
+![Multiple Tasks](./assets/Screenshot%202026-05-16%20115031.png)
 
 ---
 
@@ -264,21 +219,6 @@ forEach()
 ```javascript
 if(task.completed)
 ```
-
----
-
-# 📈 Evaluation Criteria Mapping
-
-| Criteria | Implementation |
-|---|---|
-| Problem-Solving | Modular task management logic |
-| Clarity of Thought | Structured readable code |
-| Practical Implementation | Fully working application |
-| Creativity | Modern UI and responsive design |
-| Submission Quality | Organized documentation and formatting |
-
----
-
 # 🔮 Future Improvements
 
 Possible future enhancements include:
@@ -328,8 +268,3 @@ Through this project, the following concepts were strengthened:
 Third Year Undergraduate  
 Indian Institute of Technology Bombay (IIT Bombay)
 
----
-
-# 📄 License
-
-This project is open-source and free to use for educational purposes.
